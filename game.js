@@ -690,7 +690,7 @@ class HubScene extends Phaser.Scene {
     }
 
     openYouTube() {
-        window.open('https://bit.ly/forthelomlvis', '_blank');
+        window.open('https://bit.ly/fortheloveofmylifevis', '_blank');
 
         const { width, height } = this.cameras.main;
 
